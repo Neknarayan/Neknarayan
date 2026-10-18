@@ -3,7 +3,7 @@
 # Hi there, I'm <span style="color: #38bdf8;">Neknarayan</span> 👋
 
 <a href="https://github.com/Neknarayan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Problem+Solver+%7C+DSA+Enthusiast;Building+Practical+%26+Impactful+Projects;Continuously+Learning+%26+Growing" alt="Animated Tagline Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Building+Practical+%26+Impactful+Projects;Continuously+Learning+%26+Growing" alt="Animated Tagline Header" />
 </a>
 
 ---
@@ -17,6 +17,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Narayan_ji/)
 &nbsp;
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/neknarayan63)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neknarayanlodhi63@gmail.com)
 
 ---
 
@@ -40,18 +42,21 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Backend & Machine Learning
+### ⚙️ Backend Development
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Napkin_AI-6C5CE7?style=for-the-badge" alt="Napkin AI" />
 </p>
 
 ### 🧰 Development Tools & DevOps
@@ -97,15 +102,14 @@
       <p><strong>IBM SkillsBuild Applied AI/ML Virtual Internship Final Project (UN SDG 4: Quality Education)</strong></p>
       <p>An intelligent diagnostic system that enables educators to identify students vulnerable to academic failure prior to final examinations, providing explainable underlying factors and automated support recommendations.</p>
       <ul>
-        <li><strong>ML Pipeline</strong>: Implements Random Forest and Logistic Regression classifiers to predict student risk brackets (High, Medium, Low).</li>
-        <li><strong>Explainability</strong>: Pinpoints principal risk factors per student and suggests actionable academic interventions.</li>
-        <li><strong>Interactive Tool</strong>: Includes a Flask-based "what-if" risk predictor dashboard for dynamic evaluation.</li>
+        <li><strong>Diagnostic Analysis</strong>: Identifies student risk factors across academic attendance and assessment metrics.</li>
+        <li><strong>Intervention Suggestions</strong>: Pinpoints principal risk factors per student and suggests actionable academic interventions.</li>
+        <li><strong>Interactive Tool</strong>: Web dashboard enabling dynamic student evaluation.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -113,7 +117,7 @@
       <p><strong>Smart India Hackathon Prototype (Team YantraX)</strong></p>
       <p>A multi-stakeholder enterprise platform facilitating innovation procurement and pilot deployment lifecycles across Government Officers, Startups, and Evaluators.</p>
       <ul>
-        <li><strong>Challenge & Proposal Engine</strong>: Enables challenge publishing, startup proposal submissions, and quantitative evaluation (0-100 scoring).</li>
+        <li><strong>Challenge & Proposal Engine</strong>: Enables challenge publishing, startup proposal submissions, and quantitative evaluation.</li>
         <li><strong>Pilot & KPI Verification</strong>: Structured milestone management with evidence submission and review workflows.</li>
         <li><strong>Decision Automation</strong>: Generates rule-based scaling recommendations based on verified KPI achievement ratios.</li>
       </ul>

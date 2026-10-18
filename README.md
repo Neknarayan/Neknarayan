@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Problem+Solver+%7C+DSA+Enthusiast;Building+Practical+%26+Impactful+Projects;Continuously+Learning+%26+Growing" alt="Animated Tagline Header" />
 </a>
 
-<p align="center">
-  <em>Passionate Computer Science student focused on algorithmic problem solving, software engineering, and full-stack development.</em>
-</p>
-
 ---
 
 ### 🌐 Connect & Coding Profiles
@@ -26,25 +22,12 @@
 
 </div>
 
-## 👨‍💻 About Me
-
-I am an aspiring software developer pursuing Computer Science and Engineering (CSE '29) at UIT-RGPV with a deep interest in software systems and computer science fundamentals. My primary focus centers on rigorous problem-solving with Data Structures & Algorithms, building practical full-stack applications, and learning modern engineering tooling.
-
-- 🔭 **Current Focus**: Mastering Data Structures & Algorithms and developing scalable full-stack web applications.
-- 💡 **Problem Solving**: Actively solving competitive programming challenges in **C++** on **LeetCode** and **GeeksforGeeks**.
-- 🛠️ **Real-world Projects**: Designed machine learning early-warning systems (IBM SkillsBuild internship project) and enterprise pilot deployment platforms (Smart India Hackathon).
-- 📚 **Engineering Stack**: Working with **C++**, **Python**, **TypeScript**, **JavaScript**, **FastAPI**, **Flask**, **React**, and **PostgreSQL**.
-- 🎯 **Career Goal**: Seeking software engineering internship opportunities to collaborate with experienced engineering teams and deliver impactful solutions.
-
----
-
 ## 🛠️ Technology Stack
 
 ### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -53,7 +36,6 @@ I am an aspiring software developer pursuing Computer Science and Engineering (C
 ### 🌐 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -67,10 +49,9 @@ I am an aspiring software developer pursuing Computer Science and Engineering (C
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### 🗄️ Databases & ORM
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 </p>
 
 ### 🧰 Development Tools & DevOps
@@ -139,7 +120,7 @@ I am an aspiring software developer pursuing Computer Science and Engineering (C
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
@@ -173,17 +154,3 @@ I am an aspiring software developer pursuing Computer Science and Engineering (C
     </td>
   </tr>
 </table>
-
----
-
-## 🤝 Collaboration & Contact
-
-I am actively open to discussing software development, open-source collaboration, and internship opportunities!
-
-- 💼 **LinkedIn**: [Neknarayan Lodhi](https://www.linkedin.com/in/neknarayan-lodhi-26631b399/)
-- 💻 **GitHub**: [@Neknarayan](https://github.com/Neknarayan)
-- ✉️ **Email**: [neknarayanlodhi63@gmail.com](mailto:neknarayanlodhi63@gmail.com)
-
-<div align="center">
-  <sub>Designed with care for a modern developer portfolio. Let's build something impactful together!</sub>
-</div>

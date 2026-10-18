@@ -3,9 +3,7 @@
 # Hi there, I'm <span style="color: #38bdf8;">Neknarayan</span> 👋
 
 <a href="https://github.com/Neknarayan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Building+Practical+%26+Impactful+Projects;Continuously+Learning+%26+Growing" alt="Animated Tagline Header" />
-</a>
-
+ 
 ---
 
 ### 🌐 Connect & Coding Profiles
